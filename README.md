@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Notion ⚡ : https://www.notion.so/6d3e0fbbd3464bea927da6bbb8d19437?pvs=4
 <!--
 **ChocoDong/ChocoDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
