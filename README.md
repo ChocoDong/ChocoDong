@@ -1,4 +1,6 @@
-<img src="https://media.tenor.com/images/a739a053364730705178b56257383577/tenor.gif" width="100%" height="150px" alt="Running Cat Animation" style="object-fit: cover;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/assets/animated-cat.gif" width="100%" height="100" style="object-fit: contain;">
+</p>
 
 ## Hi there 👋
 
