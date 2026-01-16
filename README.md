@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF5F6D,FFC371&height=120&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF5F6D,FFC371&height=180&section=header" width="100%">
 
 <div align="center">
-
-  <img src="https://user-images.githubusercontent.com/74038190/212748366-4171e227-2104-4c54-996b-568ef2170327.gif" width="50px" style="margin-top: 20px;">
 
   ## Hi there 👋
 
