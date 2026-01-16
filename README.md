@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF4eWx6Z3Z5Y3Z5Y3Z5Y3Z5Y3Z5Y3Z5Y3Z5Y3Z5Y3Z5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LXYg9r6W1R0xK/giphy.gif" width="100%" alt="Running Cat Animation">
+<img src="https://media.tenor.com/images/a739a053364730705178b56257383577/tenor.gif" width="100%" height="150px" alt="Running Cat Animation" style="object-fit: cover;">
 
 ## Hi there 👋
 
