@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FFA07A,FF69B4,8A2BE2&height=200&section=header&text=ChocoDong&fontSize=70&fontColor=white)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF4eWx6Z3Z5Y3Z5Y3Z5Y3Z5Y3Z5Y3Z5Y3Z5Y3Z5Y3Z5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LXYg9r6W1R0xK/giphy.gif" width="100%" alt="Running Cat Animation">
 
 ## Hi there 👋
 
