@@ -43,9 +43,4 @@
   </p>
 
   <br>
-
-  <a href="https://www.notion.so/6d3e0fbbd3464bea927da6bbb8d19437?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&label=View%20My%20Notion%20Page" alt="Notion Link">
-  </a>
-
 </div> ```
