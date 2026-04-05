@@ -37,7 +37,9 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
     <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    <a href="https://github.com/ChocoDong" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+    </a>
     <a href="https://www.notion.so/Information-339d0f73735280a7be2cdcd7b42f7b60" target="_blank">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
     </a>
