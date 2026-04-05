@@ -2,11 +2,10 @@
 
 <div align="center">
 
-  ## Hi there 👋
+  <h1>Hi there 👋</h1>
+  <h2>🛠 Tech Stack</h2>
 
-  <h3>🛠 Tech Stack</h3>
-
-  <h4>🎨 Frontend</h4>
+  <h3>🎨 Frontend</h3>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -17,7 +16,7 @@
     <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white">
   </p>
 
-  <h4>⚙️ Backend & Database</h4>
+  <h3>⚙️ Backend & Database</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
@@ -26,21 +25,23 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
   </p>
 
-  <h4>☁️ DevOps, Cloud & Data</h4>
+  <h3>☁️ DevOps, Cloud & Data</h3>
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
   </p>
 
-  <h4>🛠 Tools & Cooperation</h4>
+  <h3>🛠 Tools & Cooperation</h3>
   <p>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
     <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+    <a href="https://www.notion.so/Information-339d0f73735280a7be2cdcd7b42f7b60" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+    </a>
   </p>
 
   <br>
-</div> ```
+</div>
